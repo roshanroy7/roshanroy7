@@ -1,11 +1,16 @@
 ## About Me:
 
 Currently working on — Building full stack and AI projects in React, Node.js, RAG pipelines, and cloud-native ML systems
-Looking to collaborate on — Real world projects combining Python, cloud infrastructure, full stack development, or intelligent systems — anything with actual deployment and impact
-Looking for help with — MLOps, model deployment at scale, and connecting with engineers working on production systems
-Currently learning — LLM architectures, RAG pipelines, LangChain, full stack development, and taking ML models from research to production
-Ask me about — Building ML systems end to end, satellite data and deep learning, RAG applications, FastAPI, GCP, AWS, React, or navigating a career transition into tech
-Fun fact — My MSc group project used 1.2TB of NASA satellite data to detect toxic algal blooms 10 days in advance with 92% accuracy — fully deployed on Google Cloud
+Looking to collaborate on — Real world projects combining Python, cloud infrastructure, full stack development, or intelligent systems — anything with actual deployment and impact.
+
+Looking for help with — MLOps, model deployment at scale, and connecting with engineers working on production systems.
+
+Currently learning — LLM architectures, RAG pipelines, LangChain, full stack development, and taking ML models from research to production.
+
+Ask me about — Building ML systems end to end, satellite data and deep learning, RAG applications, FastAPI, GCP, AWS, React, or navigating a career transition into tech.
+
+Fun fact — My MSc group project used 1.2TB of NASA satellite data to detect toxic algal blooms 10 days in advance with 92% accuracy — fully deployed on Google Cloud.
+
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=roshanroy7)
 
