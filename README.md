@@ -21,30 +21,28 @@ Projects emphasise validated data, clear write-ups, and practical deployment.
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,postgres&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,js,postgres&theme=dark" />
 </p>
 
 ### Data & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=light" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" />
 </p>
 
 ### Backend & Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs&theme=dark" />
 </p>
 
 ### Cloud & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,azure,docker,vercel,prometheus,grafana&theme=light" />
+  <img src="https://skillicons.dev/icons?i=gcp,azure,docker,vercel,prometheus,grafana&theme=dark" />
 </p>
 
 ### Tooling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
-
-
 
 ## Focus
 
@@ -60,11 +58,7 @@ Projects emphasise validated data, clear write-ups, and practical deployment.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshanroy7&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roshanroy7/roshanroy7/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/roshanroy7/roshanroy7/main/puppy.svg" />
 </p>
 
 
