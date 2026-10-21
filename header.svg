@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="205" viewBox="0 0 900 205">
+<style>
+.code{font-family:'Fira Code',ui-monospace,Menlo,Consolas,monospace;font-size:15px}
+.cv{}
+.c0{animation:k0 17.0s linear infinite}
+@keyframes k0{0%,3.53%{transform:translateX(0);animation-timing-function:steps(17,end)}8.03%,97%{transform:translateX(183px)}100%{transform:translateX(0)}}
+.c1{animation:k1 17.0s linear infinite}
+@keyframes k1{0%,15.29%{transform:translateX(0);animation-timing-function:steps(25,end)}21.91%,97%{transform:translateX(255px)}100%{transform:translateX(0)}}
+.c2{animation:k2 17.0s linear infinite}
+@keyframes k2{0%,27.06%{transform:translateX(0);animation-timing-function:steps(38,end)}37.12%,97%{transform:translateX(372px)}100%{transform:translateX(0)}}
+.c3{animation:k3 17.0s linear infinite}
+@keyframes k3{0%,40.00%{transform:translateX(0);animation-timing-function:steps(61,end)}56.15%,97%{transform:translateX(579px)}100%{transform:translateX(0)}}
+.c4{animation:k4 17.0s linear infinite}
+@keyframes k4{0%,61.18%{transform:translateX(0);animation-timing-function:steps(18,end)}65.94%,97%{transform:translateX(192px)}100%{transform:translateX(0)}}
+.cur{animation:cur 17s linear infinite}@keyframes cur{0%,72%{opacity:0}72.01%{opacity:1}75.01%{opacity:0}78.01%{opacity:1}81.01%{opacity:0}84.01%{opacity:1}87.01%{opacity:0}90.01%{opacity:1}93.01%{opacity:0}96.01%{opacity:1}98%,100%{opacity:0}}
+</style>
+<rect x="1" y="1" width="898" height="203" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<rect x="1" y="1" width="898" height="34" rx="12" fill="#161b22"/>
+<rect x="1" y="22" width="898" height="13" fill="#161b22"/>
+<circle cx="24" cy="18" r="6" fill="#ff5f56"/><circle cx="46" cy="18" r="6" fill="#ffbd2e"/><circle cx="68" cy="18" r="6" fill="#27c93f"/>
+<text x="450" y="23" text-anchor="middle" class="code" style="font-size:12px" fill="#8b949e">about.py</text>
+<text x="34" y="70" class="code"><tspan fill="#7ee787">$&#160;</tspan><tspan fill="#c9d1d9">python&#160;about.py</tspan></text>
+<rect class="cv c0" x="32" y="53" width="183" height="24" fill="#0d1117"/>
+<text x="34" y="98" class="code"><tspan fill="#79c0ff">name&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">=&#160;</tspan><tspan fill="#ffa657">"Roshan&#160;Palem"</tspan></text>
+<rect class="cv c1" x="32" y="81" width="255" height="24" fill="#0d1117"/>
+<text x="34" y="126" class="code"><tspan fill="#79c0ff">degree&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">=&#160;</tspan><tspan fill="#ffa657">"MSc&#160;Computer&#160;Science,&#160;UCD"</tspan></text>
+<rect class="cv c2" x="32" y="109" width="372" height="24" fill="#0d1117"/>
+<text x="34" y="154" class="code"><tspan fill="#79c0ff">focus&#160;&#160;&#160;&#160;</tspan><tspan fill="#c9d1d9">=&#160;</tspan><tspan fill="#ffa657">["data&#160;analysis",&#160;"full-stack&#160;apps",&#160;"applied&#160;AI"]</tspan></text>
+<rect class="cv c3" x="32" y="137" width="579" height="24" fill="#0d1117"/>
+<text x="34" y="182" class="code"><tspan fill="#79c0ff">learning&#160;</tspan><tspan fill="#c9d1d9">=&#160;</tspan><tspan fill="#ffa657">"Azure"</tspan></text>
+<rect class="cv c4" x="32" y="165" width="192" height="24" fill="#0d1117"/>
+<rect class="cur" x="200" y="167" width="9" height="19" fill="#c9d1d9"/>
+</svg>
