@@ -5,7 +5,7 @@
 <h1 align="center">Roshan Palem</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=520&lines=MSc+Computer+Science+%C2%B7+UCD;Analysing+Irish+energy+data+with+Python;Building+full-stack+apps+and+AI+tools;Now+learning+and+building+on+Azure" />
+  <img src="https://raw.githubusercontent.com/roshanroy7/roshanroy7/main/header.svg" width="100%" />
 </p>
 
 
